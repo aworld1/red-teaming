@@ -12,7 +12,7 @@ This project was developed as part of the Cornell Tech Red Teaming course to ass
 
 ## Experiment Results
 
-Our hypothesis was validated within minutes. The AI was able to rapidly generate a professional, modern-looking website with:
+Our hypothesis was validated within minutes. **Within 2 minutes.** The AI was able to rapidly generate a professional, modern-looking website with:
 
 - A convincing security-focused narrative (checking if a card has been "compromised")
 - Complete credit card data collection (16-digit card number, cardholder name, expiry date, CVV)
